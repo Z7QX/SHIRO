@@ -2,7 +2,7 @@
 
 ![Shiro Banner](https://telegra.ph/file/e4aac8a3ce7a92db3807c.jpg)<br>
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Broken+Fax&pause=1000&color=4734F7&random=false&width=435&lines=SHIRO+-+MD+%E2%80%A2+BOT+WHATSAPP)](https://git.io/typing-svg" alt="">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Broken+Fax&pause=1000&color=fff&random=false&width=435&lines=SHIRO+-+MD+%E2%80%A2+BOT+WHATSAPP" alt="">
 </p>
 
 > ShiroMd Is A WhatsApp Not That Uses Baileys From WhiskeySockets, We Created ShiroMd To Run Several Commands, Now You Can Use ShiroMd For Free, You Can Also Change Some Commands Because ShiroMd Has Become An Open Source Bot. Thanks For Using ShiroMd 🥳
