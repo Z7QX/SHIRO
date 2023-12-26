@@ -32,8 +32,8 @@
 • pkg install ffmpeg
 • pkg install imagemagick
 • pkg install git
-• git clone https://github.com/Z7QX/SHYROMD.git
-• cd SHYROMD
+• git clone https://github.com/Z7QX/SHIRO.git
+• cd SHIRO
 • yarn install
 • npm start / node index.js --pairing (use pairing code)
 ```
