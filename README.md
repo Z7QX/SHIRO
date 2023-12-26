@@ -1,6 +1,9 @@
 # SHIRO-MD 🖥
 
-![Shiro Banner](https://cdn.idntimes.com/content-images/duniaku/post/20220311/shiro-no-game-no-life-9695aed1e577440129040a83b76ab973.jpg)
+![Shiro Banner](https://telegra.ph/file/e4aac8a3ce7a92db3807c.jpg)<br>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+ELISA+WHATSAPP+BOT" alt="">
+</p>
 
 > ShiroMd Is A WhatsApp Not That Uses Baileys From WhiskeySockets, We Created ShiroMd To Run Several Commands, Now You Can Use ShiroMd For Free, You Can Also Change Some Commands Because ShiroMd Has Become An Open Source Bot. Thanks For Using ShiroMd 🥳
 
@@ -20,7 +23,7 @@
 |Nsfw Menu                    | ✅  |
 |Game Menu                    | ✅  |
 |Anime Menu                   | ✅  |
-
+-----
 ## RUN ON TERMUX
 
 ```
@@ -33,3 +36,13 @@
 • cd SHYROMD
 • yarn install
 • npm start / node index.js --pairing (use pairing code)
+```
+
+-----
+
+# THANKS TO 
+
+[![WhiskeySockets](https://img.shields.io/badge/Thanks•To-WhiskeySockets-black?style=flat&logo=github)](https://github.com/WhiskeySockets)
+<br>
+<br>
+[![RizzyFuzz](https://img.shields.io/badge/Thanks•To-RizzyFuzz-black?style=flat&logo=github)](https://github.com/rizzlogy)
