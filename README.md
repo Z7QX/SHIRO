@@ -6,6 +6,6 @@
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-Group-green?style=flat&logo=WhatsApp&logoColor=green)](https://chat.whatsapp.com/HVEJWTnWaR825pK2GgSqux)
 [![DISCORD](https://img.shields.io/badge/Discord-Page-darkblue)](https://discord.com/invite/XTQYDH9J)
 
-> ShiroMd Is A WhatsApp Not That Uses Baileys From WhiskeySockets, We Created ShiroMd To Run Several Commands, Now You Can Use ShiroMd For Free, You Can Also Change Some Commands Because ShiroMd Has Become An Open Source Bot. Thanks For Using ShiroMd 🥳
+> ShiroMd Is A WhatsApp Bot That Uses Baileys From WhiskeySockets, We Created ShiroMd To Run Several Commands, Now You Can Use ShiroMd For Free, You Can Also Change Some Commands Because ShiroMd Has Become An Open Source Bot. Thanks For Using ShiroMd 🥳
 
 ----
