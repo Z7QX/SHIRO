@@ -16,3 +16,20 @@
 |                             |     |
 |-----------------------------|-----|
 |Use Pairing Code             | ✅  |
+|Roleplay Games               | ✅  |
+|Nsfw Menu                    | ✅  |
+|Game Menu                    | ✅  |
+|Anime Menu                   | ✅  |
+
+## RUN ON TERMUX
+
+```
+• pkg update && pkg upgrade
+• pkg install nodejs
+• pkg install ffmpeg
+• pkg install imagemagick
+• pkg install git
+• git clone https://github.com/Z7QX/SHYROMD.git
+• cd SHYROMD
+• yarn install
+• npm start / node index.js --pairing (use pairing code)
